@@ -1,6 +1,6 @@
 [Adblock Plus 1.1]
 ! Title: Custom Block List
-! Version: 1.8
+! Version: 1.9
 !
 ||startpage.com^
 ||pixiv.net^
@@ -17,6 +17,7 @@
 ||ddeva.info^
 ||fapfolder.club^
 ||marginalia-search.com^
+||yandex.com^
 *porn*
 *hannahowo*
 *sciamano240*
