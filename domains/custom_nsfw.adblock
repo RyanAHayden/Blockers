@@ -1,8 +1,9 @@
 [Adblock Plus 1.1]
 ! Title: Custom Block List
-! Version: 1.2
+! Version: 1.3
 !
 ||pixiv.net^
+||pixiv.org^
 ||deviantart.com^
 ||artstation.com^
 ||thotster.com^
